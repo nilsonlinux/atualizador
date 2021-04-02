@@ -3,24 +3,24 @@
   ---------------------------------------------------
   | LOJAS | TEFs | CIDADE                   | FAIXA |
   ---------------------------------------------------
-  🛒 3    🌐 3    | SUPER SANTA INÊS         |  3    |
-  🛒 40   🌐 178  | SUPER BARRA DO CORDA     |  231  |
-  🛒 42   🌐 183  | SUPER PRESIDENTE DUTRA   |  139  |
-  🛒 202  🌐 188  | SUPER CODÓ               |  142  |
-  🛒 207  🌐 ✗   | SUPER BURITICUPU         |   ✗   |
-  🛒 32   🌐 69   | MIX TIMON                |  46   |
-  🛒 39   🌐 116  | MIX CHAPADINHA           |  114  |
-  🛒 41   🌐 134  | MIX CAXIAS               |  11   |
-  🛒 47   🌐 118  | MIX BACABAL              |  115  |
-  🛒 48   | 99   | MIX PEDREIRAS            |  93   |
-  🛒 91   | 45   | MIX SANTA INÊS           |  91   |
-  🛒 97   | 179  | MIX MATEUS TERESINA CEASA|  160  |
-  🛒 99   | 130  | MIX PINHEIRO             |  117  |
-  🛒 251  | 163  | MIX PNARNAÍNBA           |  118  |
-  🛒 252  | 161  | MIX TERESINA             |  161  |
-  🛒 55   | 61   | ELETRO PRESIDENTE DRUTRA |  55   |
-  🛒 65   | 44   | ELETRO SANTA INÊS        |  65   |
-  🛒 68   | 43   | ELETRO SANTA LUZIA       |  68   |
+  🛒 3    TEF 3    | SUPER SANTA INÊS         |  3    |
+  🛒 40   TEF 178  | SUPER BARRA DO CORDA     |  231  |
+  🛒 42   TEF 183  | SUPER PRESIDENTE DUTRA   |  139  |
+  🛒 202  TEF 188  | SUPER CODÓ               |  142  |
+  🛒 207  TEF ✗   | SUPER BURITICUPU         |   ✗   |
+  🛒 32   TEF 69   | MIX TIMON                |  46   |
+  🛒 39   TEF 116  | MIX CHAPADINHA           |  114  |
+  🛒 41   TEF 134  | MIX CAXIAS               |  11   |
+  🛒 47   TEF 118  | MIX BACABAL              |  115  |
+  🛒 48   TEF 99   | MIX PEDREIRAS            |  93   |
+  🛒 91   TEF 45   | MIX SANTA INÊS           |  91   |
+  🛒 97   TEF 179  | MIX MATEUS TERESINA CEASA|  160  |
+  🛒 99   TEF 130  | MIX PINHEIRO             |  117  |
+  🛒 251  TEF 163  | MIX PNARNAÍNBA           |  118  |
+  🛒 252  TEF 161  | MIX TERESINA             |  161  |
+  🛒 55   TEF 61   | ELETRO PRESIDENTE DRUTRA |  55   |
+  🛒 65   TEF 44   | ELETRO SANTA INÊS        |  65   |
+  🛒 68   TEF 43   | ELETRO SANTA LUZIA       |  68   |
   🛒 69   | 36   | ELETRO PEDREIRAS         |  69   |
   🛒 79   | 35   | ELETRO LAGO DA PEDRA     |  79   |
   🛒 131  | 68   | ELETRO BACABAL           |  131  |
